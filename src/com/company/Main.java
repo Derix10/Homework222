@@ -35,7 +35,7 @@ public class Main {
         int b = 120; // Конечное значение диапазона - "до"
 
         int random_number1 = a + (int) (Math.random() * b);
-        System.out.println("1-ое случайное число: " + random_number1);
+        System.out.println("Случайный возраст:" + random_number1);
     }
 
 
